@@ -5,8 +5,8 @@ module.exports = defineConfig({
   video: true,
   defaultCommandTimeout: 20000,
   pageLoadTimeout: 60000,
-  viewportWidth:1360,
-  viewportHeight: 763,
+  viewportWidth:1920,
+  viewportHeight: 1080,
   retries: {
     runMode: 1,
     openMode: 1,
