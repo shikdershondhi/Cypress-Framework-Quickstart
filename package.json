@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+
+    "browserify": "^17.0.0",
+    "cly": "^0.0.0",
+    "commands": "^0.0.7",
+    "cucumber": "^6.0.7",
+    "cy": "^0.0.1",
+    "iframe": "^1.0.0",
+    "react-selector": "^0.0.5",
+    "select": "^1.1.2",
+    "wait-until": "^0.0.2",
+    "xpath": "^0.0.32",
+    "cypress": "^12.13.0"
+  }
+}
